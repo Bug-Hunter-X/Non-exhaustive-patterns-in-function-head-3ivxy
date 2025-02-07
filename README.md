@@ -1,0 +1,1 @@
+This repository contains a Haskell program that demonstrates a common error: using the `head` function on an empty list. The program also provides a solution to handle this error gracefully.
